@@ -1,2 +1,2 @@
-print("compile time error")
+print('compile time error')
 a = 5
